@@ -14,7 +14,7 @@ CSV Transformation: After importing the CSV, we remove D.C .and Puerto Rico and 
 
 
 
-Covid Beds:
+Covid_Beds_df:
 
 - identfied data source, grabbed file
 - extract CSV into DF
@@ -24,7 +24,7 @@ Covid Beds:
 - Voila`
 
 
-Death Data:
+Covid_Deaths_df:
 
 Extract: the covid death data was available in csv format via the cdc.gov 
 
